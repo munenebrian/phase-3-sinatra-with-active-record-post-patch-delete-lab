@@ -50,3 +50,5 @@ group :test do
 end
 
 
+
+gem "ruby-lsp", "~> 0.3.0", :group => :development
